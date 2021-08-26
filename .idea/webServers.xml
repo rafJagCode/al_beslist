@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0c8c46ec-4cb2-484e-a5ef-fdb7c7838970" name="ftp:amelenbeslist" url="http://ftp.server676460.nazwa.pl">
+        <fileTransfer rootFolder="/lacozzi/modules/amelenbeslist" host="ftp.server676460.nazwa.pl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
